@@ -5,7 +5,7 @@
     position: relative;
     width: 100%;
     max-width: 500px;
-    height: 180px; /* Tinggi ditambah untuk 3 baris */
+    height: 180px;
     margin: 40px auto;
   }
 
@@ -56,34 +56,29 @@
   }
 
   /* Posisi dengan 6 item (34, 25, 16) */
-  /* Baris atas: item 3 dan 4 */
   .anime-item:nth-child(3) {
-    top: 20px;   /* baris atas */
-    left: calc(50% - 90px); /* kiri dari tengah */
+    top: 20px;
+    left: calc(50% - 90px);
   }
   .anime-item:nth-child(4) {
-    top: 20px;   /* baris atas */
-    left: calc(50% + 10px); /* kanan dari tengah */
+    top: 20px;
+    left: calc(50% + 10px);
   }
-
-  /* Baris tengah: item 2 dan 5 */
   .anime-item:nth-child(2) {
-    top: 40px;   /* baris tengah */
-    left: calc(50% - 170px); /* lebih kiri */
+    top: 40px;
+    left: calc(50% - 170px);
   }
   .anime-item:nth-child(5) {
-    top: 40px;   /* baris tengah */
-    left: calc(50% + 90px); /* lebih kanan */
+    top: 40px;
+    left: calc(50% + 90px);
   }
-
-  /* Baris bawah: item 1 dan 6 */
   .anime-item:nth-child(1) {
-    top: 60px;  /* baris bawah */
-    left: calc(50% - 250px); /* paling kiri */
+    top: 60px;
+    left: calc(50% - 250px);
   }
   .anime-item:nth-child(6) {
-    top: 60px;  /* baris bawah */
-    left: calc(50% + 170px); /* paling kanan */
+    top: 60px;
+    left: calc(50% + 170px);
   }
 
 /* CSS untuk tabel projects - GITHUB THEME DARK WITH NEON */
@@ -92,31 +87,31 @@
   max-width: 1000px;
   margin: 30px auto;
   border-collapse: collapse;
-  background-color: transparent;
-  border: 2px solid #0ff; /* Neon cyan border */
+  background-color: #0d1117; /* Warna background GitHub */
+  border: 2px solid #0ff;
   border-radius: 6px;
   overflow: hidden;
   box-shadow: 0 0 15px rgba(0, 255, 255, 0.1);
 }
 
 .projects-table th {
-  background-color: rgba(13, 17, 23, 0.9); /* Semi-transparent GitHub bg */
-  color: #58a6ff; /* GitHub blue text */
+  background-color: #161b22; /* Warna header GitHub */
+  color: #58a6ff;
   padding: 16px;
   text-align: center;
   font-size: 1em;
   font-weight: 600;
-  border-bottom: 2px solid #0ff; /* Neon border */
+  border-bottom: 2px solid #0ff;
   text-transform: uppercase;
   letter-spacing: 0.5px;
 }
 
 .projects-table td {
   padding: 0;
-  vertical-align: middle; /* Center content vertically */
-  text-align: center; /* Center content horizontally */
+  vertical-align: middle;
+  text-align: center;
   border-bottom: 1px solid #30363d;
-  background-color: transparent;
+  background-color: #0d1117;
 }
 
 .projects-table tr:last-child td {
@@ -124,24 +119,24 @@
 }
 
 .projects-table tr:hover {
-  background-color: rgba(0, 255, 255, 0.05); /* Neon hover effect */
+  background-color: rgba(0, 255, 255, 0.05);
 }
 
-/* MODIFIKASI: Cover column - KONSISTEN */
+/* Cover column */
 .projects-table td:first-child {
-  width: 180px; /* Lebar tetap yang cukup */
+  width: 180px;
   padding: 0;
   border-right: 1px solid #30363d;
 }
 
-/* MODIFIKASI: Project cover container */
+/* Project cover container */
 .project-cover {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 15px; /* Padding untuk memberi ruang */
+  padding: 15px;
   width: 100%;
-  height: 180px; /* Tinggi tetap untuk konsistensi */
+  height: 180px;
   overflow: hidden;
   transition: all 0.3s ease;
   background-color: transparent;
@@ -152,13 +147,13 @@
   opacity: 0.9;
 }
 
-/* MODIFIKASI: Cover image - pertahankan rasio aspek dengan batasan */
+/* Cover image */
 .project-cover img {
-  width: auto; /* Lebar menyesuaikan gambar */
-  height: auto; /* Tinggi menyesuaikan gambar */
-  max-width: 100%; /* Maksimum lebar container */
-  max-height: 150px; /* Maksimum tinggi */
-  object-fit: contain; /* Pertahankan proporsi */
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 150px;
+  object-fit: contain;
   border-radius: 6px;
   border: 1px solid #30363d;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
@@ -168,25 +163,25 @@
 /* Project details column */
 .project-details {
   padding: 20px;
-  text-align: center; /* Center all text */
+  text-align: center;
 }
 
-/* Project name - blue by default, changes based on status */
 .project-name {
   font-size: 1.3em;
   font-weight: 600;
   margin-bottom: 8px;
   line-height: 1.4;
+  color: #c9d1d9; /* Warna teks utama GitHub */
 }
 
-/* Project description - blue by default, changes based on status */
 .project-desc {
   font-size: 0.95em;
   line-height: 1.5;
   margin-bottom: 12px;
+  color: #8b949e; /* Warna teks sekunder GitHub */
 }
 
-/* Status row classes untuk warna teks dinamis */
+/* Status row classes */
 .status-completed-row .project-name {
   color: #3fb950 !important;
 }
@@ -203,22 +198,13 @@
   color: rgba(210, 153, 34, 0.8) !important;
 }
 
+/* Project tech tags */
 .project-tech {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
   margin-bottom: 15px;
-  justify-content: center; /* Center tech tags */
-}
-
-.tech-tag {
-  padding: 4px 10px;
-  background-color: rgba(19, 35, 58, 0.7); /* Semi-transparent */
-  color: #58a6ff;
-  border-radius: 2em;
-  font-size: 0.85em;
-  font-weight: 500;
-  border: 1px solid rgba(88, 166, 255, 0.3);
+  justify-content: center;
 }
 
 /* Status column */
@@ -254,15 +240,6 @@
 }
 
 /* GitHub-like Tags */
-.project-tech {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 15px;
-  justify-content: center;
-}
-
-/* GitHub Tag Style */
 .tech-tag {
   display: inline-flex;
   align-items: center;
@@ -306,34 +283,10 @@
   border: 1px solid rgba(104, 160, 99, 0.3);
 }
 
-.tech-tag.python {
-  background-color: rgba(53, 114, 165, 0.15);
-  color: #3572a5;
-  border: 1px solid rgba(53, 114, 165, 0.3);
-}
-
-.tech-tag.php {
-  background-color: rgba(79, 91, 147, 0.15);
-  color: #4f5b93;
-  border: 1px solid rgba(79, 91, 147, 0.3);
-}
-
-.tech-tag.mysql {
-  background-color: rgba(0, 117, 143, 0.15);
-  color: #00758f;
-  border: 1px solid rgba(0, 117, 143, 0.3);
-}
-
 .tech-tag.mongodb {
   background-color: rgba(71, 153, 76, 0.15);
   color: #47994c;
   border: 1px solid rgba(71, 153, 76, 0.3);
-}
-
-.tech-tag.vue {
-  background-color: rgba(65, 184, 131, 0.15);
-  color: #41b883;
-  border: 1px solid rgba(65, 184, 131, 0.3);
 }
 
 .tech-tag.default {
@@ -355,13 +308,12 @@
     font-size: 0.85em;
   }
   
-  /* Responsive cover */
   .projects-table td:first-child {
-    width: 120px; /* Lebar lebih kecil di mobile */
+    width: 120px;
   }
   
   .project-cover {
-    height: 140px; /* Tinggi lebih kecil di mobile */
+    height: 140px;
     padding: 10px;
   }
   
@@ -383,6 +335,81 @@
     font-size: 0.7em;
   }
 }
+
+/* Styling untuk text umum agar sesuai GitHub theme */
+body {
+  background-color: #0d1117;
+  color: #c9d1d9;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #c9d1d9;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin: 0.83em 0;
+}
+
+h3 {
+  font-size: 1.17em;
+  margin: 1em 0;
+}
+
+h4 {
+  font-size: 1em;
+  margin: 1.33em 0;
+}
+
+h5 {
+  font-size: 0.83em;
+  margin: 1.67em 0;
+}
+
+section {
+  margin: 2em 0;
+  padding: 0 20px;
+}
+
+ul {
+  padding-left: 2em;
+}
+
+li {
+  margin-bottom: 0.5em;
+  color: #8b949e;
+}
+
+i {
+  color: #8b949e;
+  font-style: italic;
+}
+
+/* Box dengan border neon */
+.align-center {
+  text-align: center;
+}
+
+/* Menghilangkan tautan default styling */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Untuk gambar banner */
+img[width="600"] {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 20px 0;
+  border: 1px solid #30363d;
+}
 </style>
 
 <div align="center">
@@ -392,7 +419,7 @@
 
   <h4>⚡🌸 Welcome to My GitHub 🌸⚡</h4>
 
-  <img src="images/rikka.gif" width="600" alt="Anime banner" />
+  <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/rikka.gif" width="600" alt="Anime banner" />
   <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
   <section>
     <h3 style="font-weight: bold; margin: 4px 0;">~ Electronics Engineering</h3>
@@ -456,7 +483,7 @@
         <tr class="status-completed-row">
           <td>
             <a href="#" class="project-cover">
-              <img src="images/e.png" alt="Project 1 Cover">
+              <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/e.png" alt="Project 1 Cover">
             </a>
           </td>
           <td class="project-details">
@@ -477,7 +504,7 @@
         <tr class="status-progress-row">
           <td>
             <a href="#" class="project-cover">
-              <img src="images/e.png" alt="Project 2 Cover">
+              <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/e.png" alt="Project 2 Cover">
             </a>
           </td>
           <td class="project-details">
@@ -498,7 +525,7 @@
         <tr class="status-progress-row">
           <td>
             <a href="#" class="project-cover">
-              <img src="images/e.png" alt="Project 3 Cover">
+              <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/e.png" alt="Project 3 Cover">
             </a>
           </td>
           <td class="project-details">
@@ -530,27 +557,27 @@
   </div>
     <div class="anime-row">
       <a href="https://myanimelist.net/anime/11757/Sword_Art_Online" target="_blank" class="anime-item" title="Anime 1">
-        <img src="images/4sao.jpg" alt="Anime 1" />
+        <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/4sao.jpg" alt="Anime 1" />
         <div class="anime-name">Sword Art Online</div>
       </a>
       <a href="https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index" target="_blank" class="anime-item" title="Anime 2">
-        <img src="images/3tm.jpg" alt="Anime 2" />
+        <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/3tm.jpg" alt="Anime 2" />
         <div class="anime-name">Toaru Series</div>
       </a>
       <a href="https://myanimelist.net/anime/235/Detective_Conan" target="_blank" class="anime-item" title="Anime 3">
-        <img src="images/1dc.jpg" alt="Anime 3" />
+        <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/1dc.jpg" alt="Anime 3" />
         <div class="anime-name">Detective Conan</div>
       </a>
       <a href="https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai" target="_blank" class="anime-item" title="Anime 4">
-        <img src="images/2cd.jpg" alt="Anime 4" />
+        <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/2cd.jpg" alt="Anime 4" />
         <div class="anime-name">Chuunibyou</div>
       </a>
       <a href="https://myanimelist.net/anime/32615/Youjo_Senki" target="_blank" class="anime-item" title="Anime 5">
-        <img src="images/5ys.jpg" alt="Anime 5" />
+        <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/5ys.jpg" alt="Anime 5" />
         <div class="anime-name">Youjo Senki</div>
       </a>
       <a href="https://myanimelist.net/anime/50739/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken?q=otonari&cat=anime" target="_blank" class="anime-item" title="Anime 6">
-        <img src="images/OT.jpg" alt="Anime 6" />
+        <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/OT.jpg" alt="Anime 6" />
         <div class="anime-name">Otonari Tenshi</div>
       </a>
     </div>
