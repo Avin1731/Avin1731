@@ -142,47 +142,50 @@
     <h2 style="color: #c9d1d9; font-size: 1.5em; margin: 0.83em 0;">🌸 My favorite Anime 🌸</h2>
   </div>
   <div align="center">
-    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 500px; margin: 20px auto;">
-      <div style="text-align: center;">
-        <a href="https://myanimelist.net/anime/235/Detective_Conan" target="_blank" style="text-decoration: none; color: inherit;">
-          <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/1dc.jpg" alt="Detective Conan" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #0ff; object-fit: cover; display: block; margin: 0 auto;">
-          <div style="margin-top: 5px; font-size: 0.85em; color: #c9d1d9;">Detective Conan</div>
-        </a>
-      </div>
-      <div style="text-align: center;">
-        <a href="https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai" target="_blank" style="text-decoration: none; color: inherit;">
-          <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/2cd.jpg" alt="Chuunibyou" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #0ff; object-fit: cover; display: block; margin: 0 auto;">
-          <div style="margin-top: 5px; font-size: 0.85em; color: #c9d1d9;">Chuunibyou</div>
-        </a>
-      </div>
-      <div style="text-align: center;">
-        <a href="https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index" target="_blank" style="text-decoration: none; color: inherit;">
-          <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/3tm.jpg" alt="Toaru Series" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #0ff; object-fit: cover; display: block; margin: 0 auto;">
-          <div style="margin-top: 5px; font-size: 0.85em; color: #c9d1d9;">Toaru Series</div>
-        </a>
-      </div>
-      <div style="text-align: center;">
-        <a href="https://myanimelist.net/anime/32615/Youjo_Senki" target="_blank" style="text-decoration: none; color: inherit;">
-          <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/5ys.jpg" alt="Youjo Senki" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #0ff; object-fit: cover; display: block; margin: 0 auto;">
-          <div style="margin-top: 5px; font-size: 0.85em; color: #c9d1d9;">Youjo Senki</div>
-        </a>
-      </div>
-      <div style="text-align: center;">
-        <a href="https://myanimelist.net/anime/11757/Sword_Art_Online" target="_blank" style="text-decoration: none; color: inherit;">
-          <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/4sao.jpg" alt="Sword Art Online" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #0ff; object-fit: cover; display: block; margin: 0 auto;">
-          <div style="margin-top: 5px; font-size: 0.85em; color: #c9d1d9;">Sword Art Online</div>
-        </a>
-      </div>
-      <div style="text-align: center;">
-        <a href="https://myanimelist.net/anime/50739/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken?q=otonari&cat=anime" target="_blank" style="text-decoration: none; color: inherit;">
-          <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/OT.jpg" alt="Otonari Tenshi" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #0ff; object-fit: cover; display: block; margin: 0 auto;">
-          <div style="margin-top: 5px; font-size: 0.85em; color: #c9d1d9;">Otonari Tenshi</div>
-        </a>
-      </div>
-    </div>
+    <table style="border-collapse: collapse; border: none; margin: 20px auto; max-width: 500px;">
+      <tr>
+        <td style="text-align: center; padding: 10px; border: none;">
+          <a href="https://myanimelist.net/anime/235/Detective_Conan" target="_blank" style="text-decoration: none; color: inherit;">
+            <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/1dc.jpg" alt="Detective Conan" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #0ff; object-fit: cover; display: block; margin: 0 auto;">
+            <div style="margin-top: 5px; font-size: 0.85em; color: #c9d1d9;">Detective Conan</div>
+          </a>
+        </td>
+        <td style="text-align: center; padding: 10px; border: none;">
+          <a href="https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai" target="_blank" style="text-decoration: none; color: inherit;">
+            <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/2cd.jpg" alt="Chuunibyou" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #0ff; object-fit: cover; display: block; margin: 0 auto;">
+            <div style="margin-top: 5px; font-size: 0.85em; color: #c9d1d9;">Chuunibyou</div>
+          </a>
+        </td>
+        <td style="text-align: center; padding: 10px; border: none;">
+          <a href="https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index" target="_blank" style="text-decoration: none; color: inherit;">
+            <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/3tm.jpg" alt="Toaru Series" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #0ff; object-fit: cover; display: block; margin: 0 auto;">
+            <div style="margin-top: 5px; font-size: 0.85em; color: #c9d1d9;">Toaru Series</div>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td style="text-align: center; padding: 10px; border: none;">
+          <a href="https://myanimelist.net/anime/32615/Youjo_Senki" target="_blank" style="text-decoration: none; color: inherit;">
+            <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/5ys.jpg" alt="Youjo Senki" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #0ff; object-fit: cover; display: block; margin: 0 auto;">
+            <div style="margin-top: 5px; font-size: 0.85em; color: #c9d1d9;">Youjo Senki</div>
+          </a>
+        </td>
+        <td style="text-align: center; padding: 10px; border: none;">
+          <a href="https://myanimelist.net/anime/11757/Sword_Art_Online" target="_blank" style="text-decoration: none; color: inherit;">
+            <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/4sao.jpg" alt="Sword Art Online" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #0ff; object-fit: cover; display: block; margin: 0 auto;">
+            <div style="margin-top: 5px; font-size: 0.85em; color: #c9d1d9;">Sword Art Online</div>
+          </a>
+        </td>
+        <td style="text-align: center; padding: 10px; border: none;">
+          <a href="https://myanimelist.net/anime/50739/Otonari_no_Tenshi-sama_ni_Itsunomanika_Dame_Ningen_ni_Sareteita_Ken?q=otonari&cat=anime" target="_blank" style="text-decoration: none; color: inherit;">
+            <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/OT.jpg" alt="Otonari Tenshi" style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid #0ff; object-fit: cover; display: block; margin: 0 auto;">
+            <div style="margin-top: 5px; font-size: 0.85em; color: #c9d1d9;">Otonari Tenshi</div>
+          </a>
+        </td>
+      </tr>
+    </table>
   </div>
 </section>
-
 <!-- ===================== SOCIAL ===================== -->
 <section style="margin: 2em 0; padding: 0 20px;">
   <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
