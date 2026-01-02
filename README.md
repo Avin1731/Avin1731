@@ -145,6 +145,20 @@
 <br>
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Avin1731&show_icons=true&theme=dark&hide_border=true" alt="Avin1731's GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=Avin1731&theme=dark&hide_border=true" alt="Avin1731's Streak" />
+      </td>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
   <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
   <h2 style="color: #c9d1d9; font-size: 1.5em;">🌙⚡ Night Owl Dev Manifest ⚡🌙</h2>
   <i style="color: #8b949e;">"May your silent progress outshine the noise,<br>
@@ -153,12 +167,3 @@
   <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 </div>
 <br>
-
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Avin1731&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Stats" /></td>
-      <td><img src="https://streak-stats.demolab.com?user=Avin1731&theme=dark&hide_border=true&background=0d1117" alt="Streak" /></td>
-    </tr>
-  </table>
-</div>
