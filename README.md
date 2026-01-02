@@ -147,18 +147,12 @@
 <div align="center">
   <br>
   <img src="https://komarev.com/ghpvc/?username=Avin1731&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  
   <br><br>
 
-  <table style="border: none;">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Avin1731&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Avin1731's Stats" />
-      </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=Avin1731&theme=dark&hide_border=true&background=0d1117" alt="Avin1731's Streak" />
-      </td>
-    </tr>
-  </table>
+  <td align="center">
+        <img src="https://streak-stats.demolab.com?user=Avin1731&theme=dark&hide_border=true" alt="Avin1731's Streak" />
+  </td>
 </div>
 
 <div align="center">
