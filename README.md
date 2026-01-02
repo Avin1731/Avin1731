@@ -145,15 +145,20 @@
 <br>
 
 <div align="center">
+  <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
+  <h2 style="color: #c9d1d9; font-size: 1.5em;">🔥 GitHub Streak & Stats 🔥</h2>
   <br>
+  
   <img src="https://komarev.com/ghpvc/?username=Avin1731&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   
   <br><br>
 
-  <td align="center">
-        <img src="https://streak-stats.demolab.com?user=Avin1731&theme=dark&hide_border=true" alt="Avin1731's Streak" />
-  </td>
+  <img src="https://streak-stats.demolab.com?user=Avin1731&theme=dark&hide_border=true" alt="Avin1731's Streak" />
+  
+  <br><br>
+  <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 </div>
+<br>
 
 <div align="center">
   <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
@@ -163,4 +168,3 @@
   <br><br>
   <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 </div>
-<br>
