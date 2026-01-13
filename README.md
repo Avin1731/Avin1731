@@ -161,20 +161,10 @@ expertise = {
       </tr>
     </tbody>
   </table>
-  
-
-
-
-
-  <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 
 </div>
 
-
-
-
 <div align="center">
-  <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
   <h2 style="color: #c9d1d9; font-size: 1.5em;">🌸 My Favorite Anime 🌸</h2>
  
   <table style="border: none; margin: 20px auto;">
@@ -182,21 +172,15 @@ expertise = {
       <td align="center" width="130" style="padding: 10px;">
         <a href="[tautan mencurigakan telah dihapus]"><img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/1dc.jpg" width="80" style="border-radius: 50%; border: 2px solid #0ff;" />
 
-
-
 <sub style="color: #c9d1d9;">Detective Conan</sub></a>
       </td>
       <td align="center" width="130" style="padding: 10px;">
         <a href="https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai"><img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/2cd.jpg" width="80" style="border-radius: 50%; border: 2px solid #0ff;" />
 
-
-
 <sub style="color: #c9d1d9;">Chuunibyou</sub></a>
       </td>
       <td align="center" width="130" style="padding: 10px;">
         <a href="https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index"><img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/3tm.jpg" width="80" style="border-radius: 50%; border: 2px solid #0ff;" />
-
-
 
 <sub style="color: #c9d1d9;">Toaru Series</sub></a>
       </td>
@@ -205,21 +189,15 @@ expertise = {
       <td align="center" width="130" style="padding: 10px;">
         <a href="https://myanimelist.net/anime/32615/Youjo_Senki"><img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/5ys.jpg" width="80" style="border-radius: 50%; border: 2px solid #0ff;" />
 
-
-
 <sub style="color: #c9d1d9;">Youjo Senki</sub></a>
       </td>
       <td align="center" width="130" style="padding: 10px;">
         <a href="https://myanimelist.net/anime/11757/Sword_Art_Online"><img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/4sao.jpg" width="80" style="border-radius: 50%; border: 2px solid #0ff;" />
 
-
-
 <sub style="color: #c9d1d9;">Sword Art Online</sub></a>
       </td>
       <td align="center" width="130" style="padding: 10px;">
         <a href="https://myanimelist.net/anime/50739/"><img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/OT.jpg" width="80" style="border-radius: 50%; border: 2px solid #0ff;" />
-
-
 
 <sub style="color: #c9d1d9;">Otonari Tenshi</sub></a>
       </td>
@@ -228,9 +206,6 @@ expertise = {
   <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 </div>
 
-
-
-
 <div align="center">
   <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
   <h2 style="color: #c9d1d9; font-size: 1.5em;">🔗 Connect With Me 🔗</h2>
@@ -238,71 +213,26 @@ expertise = {
   <a href="https://www.instagram.com/vinx177/"><img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" style="margin: 0 5px;"/></a>
   <a href="https://discordapp.com/users/819799820549095464"><img src="https://skillicons.dev/icons?i=discord" width="45" alt="Discord" style="margin: 0 5px;"/></a>
   <a href="mailto:hnostenostogei@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" style="margin: 0 5px;"/></a>
-  
 
-
-
-
-
-
-  <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 </div>
-
-
-
 
 <div align="center">
-  <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
   <h2 style="color: #c9d1d9; font-size: 1.5em;">🔥 GitHub Streak & Stats 🔥</h2>
-  
-
-
-
-
  
   <img src="https://komarev.com/ghpvc/?username=Avin1731&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
- 
-  
-
-
-
-
 
   <img src="https://streak-stats.demolab.com?user=Avin1731&theme=dark&hide_border=true" alt="Avin1731's Streak" />
- 
-  
-
-
-
-
-
 
   <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 
 </div>
-
-
-
 
 <div align="center">
   <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
   <h2 style="color: #c9d1d9; font-size: 1.5em;">🌙⚡ Night Owl Dev Manifest ⚡🌙</h2>
   <i style="color: #8b949e;">"May your silent progress outshine the noise,
 
-
-
-
   and may every late-night commit sharpen you sharper than yesterday."</i>
-  
-
-
-
-
-
 
   <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 </div>
-
-```
-
-```
