@@ -28,7 +28,12 @@ const avin = {
     role: "Frontend Web Developer",
     workingOn: ["Clean Code", "Interactive UI", "Tidy Architecture"],
     learning: ["AI Engineering", "Cybersecurity"],
-    hobbies: ["Mobile Legends", "Umamusume", "Anime Marathon"],
+    hobbies: ["Mobile Legends", "Umamusume Pretty Derby", "Anime Marathon"],
+    fandom_allegiance: {
+        pairing_1: "AmeSame 💛💙",
+        pairing_2: "Grindstone 🔨💎",
+        guilds: ["Pemaloe", "Pebble"]
+    },
     philosophy: "Codes and works best when the world is asleep 🌙"
 };
 
@@ -161,16 +166,19 @@ expertise = {
       </tr>
     </tbody>
   </table>
+  
+  <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 
 </div>
 
 <div align="center">
+  <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
   <h2 style="color: #c9d1d9; font-size: 1.5em;">🌸 My Favorite Anime 🌸</h2>
  
   <table style="border: none; margin: 20px auto;">
     <tr>
       <td align="center" width="130" style="padding: 10px;">
-        <a href="[tautan mencurigakan telah dihapus]"><img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/1dc.jpg" width="80" style="border-radius: 50%; border: 2px solid #0ff;" />
+        <a href="[suspicious link removed]"><img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/1dc.jpg" width="80" style="border-radius: 50%; border: 2px solid #0ff;" />
 
 <sub style="color: #c9d1d9;">Detective Conan</sub></a>
       </td>
@@ -208,20 +216,10 @@ expertise = {
 
 <div align="center">
   <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
-  <h2 style="color: #c9d1d9; font-size: 1.5em;">🔗 Connect With Me 🔗</h2>
-<p style="color: #8b949e;">Always interested in discussing <b>Frontend Development, UI/UX, or Anime!</b></p>
-  <a href="https://www.instagram.com/vinx177/"><img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" style="margin: 0 5px;"/></a>
-  <a href="https://discordapp.com/users/819799820549095464"><img src="https://skillicons.dev/icons?i=discord" width="45" alt="Discord" style="margin: 0 5px;"/></a>
-  <a href="mailto:hnostenostogei@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" style="margin: 0 5px;"/></a>
+  <h2 style="color: #c9d1d9; font-size: 1.5em;">⚡ Hololive Protocol Active ⚡</h2>
 
-</div>
-
-<div align="center">
-  <h2 style="color: #c9d1d9; font-size: 1.5em;">🔥 GitHub Streak & Stats 🔥</h2>
- 
-  <img src="https://komarev.com/ghpvc/?username=Avin1731&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-
-  <img src="https://streak-stats.demolab.com?user=Avin1731&theme=dark&hide_border=true" alt="Avin1731's Streak" />
+<h3 style="margin: 5px 0;">💛 <span style="color: #e6cc00; font-weight: bold;">AMESAME 4EVER</span> 💙</h3>
+<h3 style="margin: 5px 0;">🔨 <span style="color: #b08dff; font-weight: bold;">GRINDSTONE SUPREMACY</span> 💎</h3>
 
   <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 
@@ -229,6 +227,34 @@ expertise = {
 
 <div align="center">
   <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
+  <h2 style="color: #c9d1d9; font-size: 1.5em;">🔗 Connect With Me 🔗</h2>
+<p style="color: #8b949e;">Always interested in discussing <b>Frontend Development, UI/UX, or Anime!</b></p>
+  <a href="https://www.instagram.com/vinx177/"><img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" style="margin: 0 5px;"/></a>
+  <a href="https://discordapp.com/users/819799820549095464"><img src="https://skillicons.dev/icons?i=discord" width="45" alt="Discord" style="margin: 0 5px;"/></a>
+  <a href="mailto:hnostenostogei@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" style="margin: 0 5px;"/></a>
+
+  <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
+</div>
+
+<div align="center">
+  <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
+
+<div align="center">
+  <h2 style="color: #c9d1d9; font-size: 1.5em;">🔥 GitHub Stats & Activity 🔥</h2>
+  <br>
+
+    <img src="https://komarev.com/ghpvc/?username=Avin1731&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+
+    <img src="https://github-readme-stats.vercel.app/api?username=Avin1731&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=c9d1d9" alt="Avin1731 Stats" />
+  
+  <br><br>
+
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avin1731&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Avin1731 Activity Graph" />
+  
+  <br><br>
+</div>
+
+</div>
   <h2 style="color: #c9d1d9; font-size: 1.5em;">🌙⚡ Night Owl Dev Manifest ⚡🌙</h2>
   <i style="color: #8b949e;">"May your silent progress outshine the noise,
 
