@@ -1,20 +1,15 @@
 <div align="center">
-  ╔══════════════════ ✦ ✦ ✦ ══════════════════╗ 
-  <h1 style="color: #c9d1d9; font-size: 2em; margin: 0.67em 0;">🌸✨ Xte • Avin1731 ✨🌸</h1> 
-  ╚══════════════════ ✦ ✦ ✦ ══════════════════╝ 
 
-  <h4 style="color: #58a6ff; font-size: 1em; margin: 1.33em 0;">⚡🌸 Welcome to My GitHub 🌸⚡</h4>
+<h1 style="color: #58a6ff; font-size: 1em; margin: 1.33em 0;">⚡🌸 Welcome to My GitHub 🌸⚡</h1>
 
   <img src="https://raw.githubusercontent.com/avin1731/avin1731/main/images/rikka.gif" width="600" style="max-width: 100%; height: auto; border-radius: 8px; margin: 20px 0; border: 1px solid #30363d;" alt="Anime banner" />
-  
-  <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
-  
-  <h3 style="font-weight: bold; margin: 4px 0; color: #c9d1d9;">~ Electronics Engineering & Software Engineering ~</h3>
 
-  <h4 style="font-weight: normal; color: #c9d1d9; margin: 1.33em 0;">Frontend-Focused Web Developer</h4>
-  <h5 style="font-weight: normal; color: #8b949e; margin: 1.67em 0;">~ Anime Enthusiast • Hololive Fans • Gaming Enjoyer ~</h5>
-  <br>
-  <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
+## 🌸✨ [Avin1731](https://github.com/Avin1731) | [Xte1412](https://github.com/Xte-1412) ✨🌸
+### ⚡🌸 [AcademyCity-RND](https://github.com/AcademyCity-RND) 🌸⚡ 
+### ~ Electronics Engineering & Software Engineering ~
+#### **Web Development - Frontend Developer**
+*~ Anime Enthusiast • Hololive Fans • Gaming Enjoyer ~*
+
 </div>
 
 ---
@@ -119,7 +114,6 @@ expertise = {
 ---
 
 <div align="center">
-  <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
   <h2 style="color: #c9d1d9; font-size: 1.5em;">🌸 Featured Projects 🌸</h2>
 
   <table style="width: 100%; max-width: 1000px; margin: 30px auto; border-collapse: collapse; background-color: #0d1117; border: 2px solid #0ff; border-radius: 6px;">
@@ -166,13 +160,10 @@ expertise = {
       </tr>
     </tbody>
   </table>
-  
-  <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 
 </div>
 
 <div align="center">
-  <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
   <h2 style="color: #c9d1d9; font-size: 1.5em;">🌸 My Favorite Anime 🌸</h2>
  
   <table style="border: none; margin: 20px auto;">
@@ -211,33 +202,26 @@ expertise = {
       </td>
     </tr>
   </table>
-  <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 </div>
 
 <div align="center">
-  <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
   <h2 style="color: #c9d1d9; font-size: 1.5em;">⚡ Hololive Protocol Active ⚡</h2>
 
 <h3 style="margin: 5px 0;">💛 <span style="color: #e6cc00; font-weight: bold;">AMESAME 4EVER</span> 💙</h3>
 <h3 style="margin: 5px 0;">🔨 <span style="color: #b08dff; font-weight: bold;">GRINDSTONE SUPREMACY</span> 💎</h3>
 
-  <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 
 </div>
 
 <div align="center">
-  <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
   <h2 style="color: #c9d1d9; font-size: 1.5em;">🔗 Connect With Me 🔗</h2>
 <p style="color: #8b949e;">Always interested in discussing <b>Frontend Development, UI/UX, or Anime!</b></p>
   <a href="https://www.instagram.com/vinx177/"><img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" style="margin: 0 5px;"/></a>
   <a href="https://discordapp.com/users/819799820549095464"><img src="https://skillicons.dev/icons?i=discord" width="45" alt="Discord" style="margin: 0 5px;"/></a>
   <a href="mailto:hnostenostogei@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" style="margin: 0 5px;"/></a>
-
-  <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 </div>
 
 <div align="center">
-  <div align="center">╔══════════════════ ✦ ✦ ✦ ══════════════════╗</div>
 
 <div align="center">
   <h2 style="color: #c9d1d9; font-size: 1.5em;">🔥 GitHub Stats & Activity 🔥</h2>
@@ -260,5 +244,4 @@ expertise = {
 
   and may every late-night commit sharpen you sharper than yesterday."</i>
 
-  <div align="center">╚══════════════════ ✦ ✦ ✦ ══════════════════╝</div>
 </div>
