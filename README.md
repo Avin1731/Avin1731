@@ -234,10 +234,10 @@ expertise = {
   <img src="https://komarev.com/ghpvc/?username=Avin1731&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Avin1731&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=c9d1d9" alt="Avin1731 Stats" />
+  <img src="https://ac-github-readme-stats-one.vercel.app/api?username=Avin1731&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=c9d1d9" alt="Avin1731 Stats" />
 <br /><br />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avin1731&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Avin1731 Activity Graph" />
+  <img src="https://ac-github-readme-activity-graph.vercel.app/graph?username=Avin1731&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Avin1731 Activity Graph" />
 </div>
 
 <div>
