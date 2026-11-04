@@ -212,9 +212,8 @@ expertise = {
   <h3 style="margin: 5px 0;">🔨 <span style="color: #b08dff; font-weight: bold;">GRINDSTONE SUPREMACY</span> 💎</h3>
 </div>
 
-<br />
-
 <div align="center">
+<br />
   <h2 style="color: #c9d1d9; font-size: 1.5em;">🔗 Connect With Me 🔗</h2>
 <br />
   <p style="color: #8b949e;">Always interested in discussing <b>Frontend Development, UI/UX, or Anime!</b></p>
@@ -227,23 +226,22 @@ expertise = {
   </p>
 </div>
 
+<div align="center">
+<br />
+  <h2 style="color: #c9d1d9; font-size: 1.5em;">🔥 GitHub Stats & Activity 🔥</h2>
 <br />
 
-<div align="center">
-  <h2 style="color: #c9d1d9; font-size: 1.5em;">🔥 GitHub Stats & Activity 🔥</h2>
-  <br />
-
   <img src="https://komarev.com/ghpvc/?username=Avin1731&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <br /><br />
+<br /><br />
 
   <img src="https://github-readme-stats.vercel.app/api?username=Avin1731&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=c9d1d9" alt="Avin1731 Stats" />
-  <br /><br />
+<br /><br />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Avin1731&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" alt="Avin1731 Activity Graph" />
-  <br />
 </div>
 
 <div>
+<br />
   <h2 style="color: #c9d1d9; font-size: 1.5em;">🌙⚡ Night Owl Dev Manifest ⚡🌙</h2>
 <br />
   <i style="color: #8b949e;">"May your silent progress outshine the noise,<br />and may every late-night commit sharpen you sharper than yesterday."</i>
